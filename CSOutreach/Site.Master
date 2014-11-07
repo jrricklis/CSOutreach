@@ -61,7 +61,15 @@
     </div>
     <div id="footer">
         <div class="container">
-            Footer Content Goes Here.
+            <div class="col-sm-12 col-md-5 col2">
+				<span class='row1'></span>
+				<span class='row2'></span>
+                <span class='row3'>
+				    <a href='https://www.facebook.com/CSK12OutreachUTD' target="_blank"><i class="icon-facebook"></i> </a>								
+					<a href='https://www.twitter.com/' target="_blank"><i class="icon-twitter"></i> </a>												
+					<a href='https://groups.google.com/d/msg/dfw-k12-stem-outreach/ogI-KBKYeXw/NB_aaSzQe7MJ' target="_blank"><i class="icon-googleplus"></i> </a>																											
+                </span>						
+			</div>
         </div>
     </div>
     </form>

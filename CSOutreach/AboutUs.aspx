@@ -11,7 +11,7 @@
         <div class="col-sm-6 col-md-3">
 		    <div class="thumbnail">
                 <div class="circle">
-                    <img src="img/test.jpg" alt="..." class="img-circle" style="width: 120px;height: 110px;margin-top:23px;"/>			    			        
+                    <img src="img/workshops.jpg" alt="..." class="img-circle" style="width: 120px;height: 110px;margin-top:23px;"/>			    			        
                 </div>
                 <div class="caption">
 			        <h3><a href="#" title="Workshops">Workshops</a></h3>
